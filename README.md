@@ -19,5 +19,13 @@ no additional library  used.
 All kotlin latest api 30
 
 
+what was the learning curve:
+
+1. add 2 fragments with child fragments in main view
+2. add a second child to the fragment
+3. way to send to all vues the time stamp when any button is clicked
+3.figuring out how to broadcast or any ways to show time stamp on all
+
+
 
 
